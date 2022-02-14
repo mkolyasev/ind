@@ -1,0 +1,28 @@
+---- * Так ** 3 *** files\files1.txt ++++
+---- * говорила ** 12 *** files\files1.txt ++++
+---- * в ** 14 *** files\files1.txt * в ** 39 *** files\files2.txt ++++
+---- * июле ** 19 *** files\files1.txt ++++
+---- * 1805 ** 24 *** files\files1.txt ++++
+---- * года ** 29 *** files\files1.txt ++++
+---- * известная ** 39 *** files\files1.txt ++++
+---- * Анна ** 44 *** files\files1.txt * Анна ** 54 *** files\files2.txt ++++
+---- * Павловна ** 53 *** files\files1.txt * Павловна ** 63 *** files\files2.txt ++++
+---- * Шерер, ** 60 *** files\files1.txt ++++
+---- * фрейлина ** 69 *** files\files1.txt ++++
+---- * и ** 71 *** files\files1.txt * и ** 22 *** files\files2.txt ++++
+---- * приближенная ** 85 *** files\files1.txt ++++
+---- * императрицы ** 97 *** files\files1.txt ++++
+---- * Марии ** 103 *** files\files1.txt ++++
+---- * Феодоровны ** 114 *** files\files1.txt ++++
+---- * где ** 3 *** files\files2.txt ++++
+---- * он ** 6 *** files\files2.txt ++++
+---- * воспитывался, ** 20 *** files\files2.txt ++++
+---- * был ** 26 *** files\files2.txt ++++
+---- * первый ** 33 *** files\files2.txt ++++
+---- * раз ** 37 *** files\files2.txt ++++
+---- * обществе. ** 49 *** files\files2.txt ++++
+---- * приветствовала ** 79 *** files\files2.txt ++++
+---- * его ** 83 *** files\files2.txt ++++
+---- * поклоном, ** 93 *** files\files2.txt ++++
+---- * относящимся ** 105 *** files\files2.txt ++++
+---- * к ** 107 *** files\files2.txt ++++
